@@ -14,6 +14,7 @@ SkylineUI a Pixel rom that integrates useful features from known custom ROMs.
 1. Follow the intructions in the [Manifest](https://github.com/SkylineUI-reborn-dump/manifest) repo to initialize the working directory.
 2. Use this [commit](https://github.com/SkylineUI-Devices/device_xiaomi_vayu/commit/d8fb4495f1d1490e8a9f79dc44f8e4bdad2acd82) as a reference to make a Bringup SkylineUI
 3. Use the ```mka skyline -j$(nproc --all)``` command to start your build.
+4. Repo which starts with platform is for Android 15 (Except the spoof repo).
 
 ### Social Links
 
